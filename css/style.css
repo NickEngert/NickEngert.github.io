@@ -46,3 +46,6 @@ tr:nth-child(even) {
       color: red;
       background-color: #ccc;
       }
+li a:hover {
+      font: Arial;
+}
