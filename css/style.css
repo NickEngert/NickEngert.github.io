@@ -33,7 +33,7 @@ p:first-of-type {
   font-size: 1.25em;
                   }
 li:nth-child(2) {
-    color: #545454;
+    color: green;
 }
 table, tr, th, td {
       border: 1px solid black;
