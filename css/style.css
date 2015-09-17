@@ -19,5 +19,6 @@ table {
        margin-bottom: 50px;
        }
 tr:nth-child(even) {
+      color: red;
       background-color: #ccc;
       }
