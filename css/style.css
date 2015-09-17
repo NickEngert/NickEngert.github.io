@@ -11,6 +11,18 @@
       width: 40%;
       margin-left: 10%;
         }   
+.first {
+      color:red;
+      font-weight:bold"
+      }
+.second {
+      color:pink;
+      font-weight:bold"
+}
+.third {
+      color:yellow;
+      font-weight:bold"
+}
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
