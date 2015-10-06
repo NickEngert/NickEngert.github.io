@@ -35,7 +35,11 @@ h2 {
 	text-align: center; 
 	text-transform: uppercase; 
 }
+
+.list {
+    text-align: center;
+}
+
 .list ul {
-    margin: 0;
-    vertical-align: middle;
+    display: inline-block;
 }
