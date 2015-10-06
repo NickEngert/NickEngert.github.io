@@ -35,6 +35,8 @@ h2 {
 	text-align: center; 
 	text-transform: uppercase; 
 }
-ul {
-	
+.List ul {
+    margin: 0;
+    vertical-align: middle;
+    line-height: 70px;
 }
