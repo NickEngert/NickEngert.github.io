@@ -1,8 +1,59 @@
 body {
-    background: grey;
-    color: white;
+    background: #aeaeae;
+    color: #000000;
 }
 
+div {
+	padding: 5px 20px;
+	margin-bottom: 15px;
+}
+
+p { 
+	line-height: 1.35;
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 65%;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 16px; 
+	line-height: 1.25;	
+}
+ul {
+    list-style-type: none;
+}
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-size: 30px;  
+	line-height: 1.25;  
+	text-align: center; 
+	text-transform: uppercase; 
+}
+h2 { 
+	font-family: 'Open Sans Condensed', sans-serif; 
+	font-size: 24px;  
+	line-height: 1.25;  
+	text-align: center; 
+	text-transform: uppercase; 
+}
+
+.mets a:visited  {
+	color: white;
+}
+
+.dodgers a:visited  {
+	color: red;
+}
+
+.cubs a:visited  {
+	color: purple;
+}
+
+.pittsburgh a:visited  {
+	color: black;
+}
+
+.cardinals a:visited  {
+	color: white;
+}
 .main-content {
     width: 1000px;
     margin: 0 auto;
@@ -14,24 +65,37 @@ body {
 
 .mets {
     background: orange;
+	color: #0b0e78;
 }
 
 .dodgers {
     background: blue;
+	color: white;
 }
 
 .cubs {
-    
+    color: #000000;
 }
 
 .pittsburgh {
     background: yellow;
+	color: #1100ff;
 }
 
 .cardinals {
-    background: red;
+    background: #ff7c7c;
+	color: #0a0a0a;
+}
+
+table, tr, th, td {
+    border: 1px solid white;
+	padding: 5px;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
 .table-container {
     background: black;
+	color: white;
 }
