@@ -1,4 +1,4 @@
-@media (min-width: 800px)and (max-width: 900px) {
+@media (min-width: 1000px)and (max-width: 1200px) {
   
     .x1 {display:block; font-size: 20px; color: white;}
     .x2 {display:none;}
@@ -9,7 +9,7 @@
     div {background:red;}
 
 }
-@media (min-width: 700px)and (max-width: 799px) {
+@media (min-width: 800px)and (max-width: 999px) {
 
     .x1 {display:block;}
     .x2 {display:block; font-size: 20px; color: white;}
@@ -20,7 +20,7 @@
     div {background:orange;}
 
 }
-@media (min-width: 600px)and (max-width: 699px) {
+@media (min-width: 700px)and (max-width: 799px) {
 
     .x1 {display:block;}
     .x2 {display:block;}
@@ -31,7 +31,7 @@
     div {background:yellow;}
 
 }
-@media (min-width: 500px)and (max-width: 599px) {
+@media (min-width: 600px)and (max-width: 699px) {
 
     .x1 {display:block;}
     .x2 {display:block;}
@@ -42,7 +42,7 @@
     div {background:green;}
 
 }
-@media (min-width: 400px)and (max-width: 499px) {
+@media (min-width: 500px)and (max-width: 599px) {
 
     .x1 {display:block;}
     .x2 {display:block;}
@@ -53,7 +53,7 @@
     div {background:blue;}
 
 }
-@media (min-width: 320px)and (max-width: 399px) {
+@media (min-width: 320px)and (max-width: 499px) {
 
     .x1 {display:block;}
     .x2 {display:block;}
